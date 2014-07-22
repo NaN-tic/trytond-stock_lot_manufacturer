@@ -1,0 +1,11 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:stock.lot,manufacturer:"
+msgid "Manufacturer"
+msgstr "Fabricante"
+
+msgctxt "field:stock.move,lot_manufacturer:"
+msgid "Lot Manufacturer"
+msgstr "Fabricante lote"
